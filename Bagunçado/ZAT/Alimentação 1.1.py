@@ -27,6 +27,7 @@ from pandas import DataFrame, Series
     Alimentação()
 
 
+print(Comida)
 
 
 #Preciso de uma estrutura que organize os grãos, as frutas e os carboidratos
