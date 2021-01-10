@@ -1,13 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Aug 15 00:55:00 2019
-
 @author: Caio
 """
-
-
 # Código pertencente aos problemas que envolvem a termologia
-
 
 Celsius=str
 Fahrenheit=str
@@ -17,8 +13,7 @@ class Termologia():
     def ConverterCpraF():
         
         print ("Digite a escala de temperatura que deseja converter")
-        
-        
+              
 
         print ("Digite Celsius ou Fahrenheit para escolher")
         
