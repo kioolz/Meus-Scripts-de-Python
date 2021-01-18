@@ -28,6 +28,8 @@ class Termologia():
             F = float(input())
             C = (F - 32) * 5/9
             print ("Correspondem à", C, "Celsius")
+        if not str(input(Celsius) or str(input(Fahrenheit)):
+            
             
     ConverterCpraF()
     
