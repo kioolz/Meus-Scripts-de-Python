@@ -1,19 +1,14 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Oct  5 18:53:52 2019
-
 @author: Caio
 """
-
-
 # Se eu aplicar uma quantidade fixa de dinheiro num intervalo fixo de tempo
 #Rendendo a uma % fixa de juros , depois de um intervalo X de tempo
 # A taxa de juros seria a taxa SELIC, menos os descontos do imposto de renda e do IOF. 
 #Essas condições então tem de estar muito específicas
 
-
 # O programa deve printar os resultados em formato de DataFrame no final do código
-
 
 # 1.0 - Preciso colocar o datetime como uma forma de controlar a indexação do dataframe.
 
@@ -22,17 +17,14 @@ import pandas as pd
 from pandas import DataFrame, Series
 from datetime import datetime
 
-
 #Contador para funcionar o while
 j=0
-
 
 #Listas vazias que serão preenchidas no while e servirão pro dataframe
 AportesMensais=[]
 IntervalosdeTempo=[]
 RendimentosRelativos=[]
 MontantesRelativos=[]
-
 
 #Taxa de Juros
 TaxadeJuros=(5.5/100)/12
