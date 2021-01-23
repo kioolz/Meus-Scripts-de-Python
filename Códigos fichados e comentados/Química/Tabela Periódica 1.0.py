@@ -5,13 +5,8 @@ Created on Sat Aug  3 18:29:31 2019
 @author: Caio
 """
 
-
-
-
 # Criando uma lista que será preenchida com o nome dos elementos.
 Elementos = []
-
-
 
 #Código que preenche uma tabela que o usuário irá escolher os elementos que deseja trabalhar
 #Enquanto não preenche a lista com os 118 elementos da tabela
@@ -28,8 +23,6 @@ for i in range(118):
             
 #Escreve a lista do programa caso o usuário queira verificar se está completa.
 print("Esta é sua lista de elementos:", Elementos) 
-
-
 
 #Usando a biblioteca pandas para criar uma tabela de dados
 # simples com as propriedades dos átomos para o usuário
