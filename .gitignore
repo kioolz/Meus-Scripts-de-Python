@@ -1,0 +1,89 @@
+
+Arduino/libraries/DHT_sensor_library/CONTRIBUTING.md
+Arduino/libraries/DHT_sensor_library/DHT.cpp
+Arduino/libraries/DHT_sensor_library/DHT.h
+Arduino/libraries/DHT_sensor_library/DHT_U.cpp
+Arduino/libraries/DHT_sensor_library/DHT_U.h
+Arduino/libraries/DHT_sensor_library/examples/DHT_Unified_Sensor/DHT_Unified_Sensor.ino
+Arduino/libraries/DHT_sensor_library/examples/DHTtester/DHTtester.ino
+Arduino/libraries/DHT_sensor_library/keywords.txt
+Arduino/libraries/DHT_sensor_library/library.properties
+Arduino/libraries/DHT_sensor_library/README.md
+Arduino/libraries/readme.txt
+Arduino/libraries/rExcel/keywords.txt
+Arduino/libraries/rExcel/rExcel.cpp
+Arduino/libraries/rExcel/rExcel.h
+Arduino/libraries/SDHT/examples/broadcast/broadcast.ino
+Arduino/libraries/SDHT/keywords.txt
+Arduino/libraries/SDHT/library.properties
+Arduino/libraries/SDHT/LICENSE
+Arduino/libraries/SDHT/README.md
+Arduino/libraries/SDHT/SDHT.h
+Arduino/Piscar_1_LED/Piscar_1_LED.ino
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/arduino-controle-led-potenciometro-02.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/arduino-controle-led-potenciometro-04.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/arduino-controle-led-potenciometro-05.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/arduino-controle-led-potenciometro-06.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/arduino-controle-led-potenciometro-08.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/esquema2.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED.ino
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro..html
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/135.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/137.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/145.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/150.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/153(1).jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/153.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/167.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/176.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/182.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/193.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/195.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/197.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/200.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/219.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/228.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/234.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/236.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/239.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/243.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/244.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/245.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/246.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/247.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/248.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/3653818607-postmessagerelay.js.download
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/adframe.js.download
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/analytics.js.download
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/arduino-compila-upload.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/arduino-controle-led-potenciometro-01.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/arduino-controle-led-potenciometro-02.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/arduino-controle-led-potenciometro-03.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/arduino-controle-led-potenciometro-04.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/arduino-controle-led-potenciometro-05.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/arduino-controle-led-potenciometro-06.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/arduino-controle-led-potenciometro-08.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/cb=gapi(1).loaded_0
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/cb=gapi.loaded_0
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/cb=gapi.loaded_1
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/como-fazer-as-coisas-2013.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/esquema2.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/estilo-pai.css
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/estilo-posts.css
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/f(1).txt
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/f.txt
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/facebook.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/fastbutton.html
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/feed.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/gplus.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/jquery.min.js.download
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/pinterest.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/plusone.js.download
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/postmessageRelay.html
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/rpc_shindig_random.js.download
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/shBrushJava.js.download
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/shCore.js.download
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/shCoreEclipse.css
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/twitter.jpg
+Arduino/Potenciometro_que_ajusta_intervalo_que_pisca_o_LED/Projeto Arduino, Como controlar um led com um potenciômetro._files/youtube.jpg
+Arduino/Sem_foro_de_Tr_nsito/Sem_foro_de_Tr_nsito.ino
