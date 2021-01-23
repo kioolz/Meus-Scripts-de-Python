@@ -12,12 +12,7 @@ Created on Mon Jul 29 14:49:56 2019
 # Se houvermos uma mistura de diversos gases, a densidade relativa entre eles é a razão entre suas densidades.
 #nas condições consideradas de pressão e temperatura temos
 
-
-
-
 class DensidadeAbsolutaeRelativa:
-   
-    
     
     def DensidadeAbsoluta():
         
