@@ -7,7 +7,6 @@ Created on Tue Nov 12 10:03:50 2019
 # Livro Assaf - Mercado Financeiro
 #Capítulo 7.6.1 - Desmembramento da taxa básica de juros
 
-
 i_pura = float(input('Insira a taxa livre de risco da economia'))
 i_risco = float(input('Insira a taxa de risco mínimo da economia'))
 i_real = float
