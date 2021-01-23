@@ -10,7 +10,6 @@ import pandas as pd
 from pandas import DataFrame, Series
 from datetime import date
 
-
 #Criando uma variável para a data de hoje.
 #Esta variável futuramente vai entrar no date range para ir contando os dias, dentro do DataFrame
 # De forma que eu possa preencher com as informações da web o que acontece com cada uma das ações.
@@ -18,16 +17,12 @@ datas = date.today()
 datas
 
 #Também posso usar o comando datetime.now para modificar o dataframe no intervalo de tempo que eu desejar.
-
 import datetime 
 datetime.datetime.now()
-
 
 # Inserindo uma variável que controla os intervalos de tempo de acordo com os dias
 datasrange = pd.date_range('2019-09-21', '2019-12-31')
 datasrange
-
-
 
 #Criando uma série com os nomes das ações para serem o index
 #Esta tupla contém as siglas dos capitais aonde tem dinheiro investido
