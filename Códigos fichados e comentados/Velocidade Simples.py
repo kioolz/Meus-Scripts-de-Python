@@ -7,15 +7,17 @@ Created on Mon Jun 24 14:18:13 2019
 #-----------------------------#-----------------------------#-----------------------------#-----------------------------
  # Modificações realizadas -     
 
+!pip install matplotlib
+
+
 #Definimos uma variável para iniciar o contador de quantos valores serão inseridos
- #Enquanto esta variável permanecer ligada, ele vai angariar mais dados para a lista.
+ #Enquanto esta variável permanecer ligada, ele vai acrescentar mais dados para a lista.
 V=True
 
 #Variáveis booleanas que servirão para definir a estrutura que repete o código ou para o código
 #Em implementação, a estrutura do If ainda não funciona bem.
 Sim=True
 Não=False
-
 
 #Listas que irão armazenar as variáveis associadas a X, Xo, T, To e Vel
 PosiçõesFinais=[]
@@ -55,19 +57,7 @@ grafico.suptitle("não tem eixo neste gráfico")
 grafico, ax_lst = plt.subplots(1,1) #Uma figura com 2x2 divisões
     
     
-    
-    
-    #Falta colocar o comando que plota o gráfico da operação.
-    
-    #Teste da estrutura condicional que repete ou não o armazenamento dos valores.
-    if (V==True):
-        print ("Deseja continuar? Digite ""Sim"" ou ""Não""")
-        input(bool())
-        if input(False):
-            break
-        if input(True):
-            V=True
-            
+
 
     
 
