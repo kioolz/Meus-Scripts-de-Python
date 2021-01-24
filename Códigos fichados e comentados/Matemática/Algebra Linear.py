@@ -4,8 +4,6 @@ Created on Sun Jun 23 17:39:00 2019
 
 @author: Caio
 """
-
-
 #Script usado para treinar Algebra Linear 
 
 # A Algebra Linear é o ramo da matemática que lida com espaços vetoriais
